@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<QCM>
+	<idExamen>7</idExamen>
+	<nbrQuestion>3</nbrQuestion>
+	<questions>
+		<question numero="1">
+			<repenses>
+				<repense>1</repense>
+			</repenses>
+		</question>
+		<question numero="2">
+			<repenses>
+				<repense>2</repense>
+			</repenses>
+		</question>
+		<question numero="3">
+			<repenses>
+				<repense>1</repense>
+			</repenses>
+		</question>
+	</questions>
+</QCM>

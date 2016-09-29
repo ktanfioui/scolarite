@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PExercices>
+	<idExamen>11</idExamen>
+	<nbrExercices>2</nbrExercices>
+	<repenses>
+		<exercice numero="1">
+			<contenu>
+							</contenu>
+		</exercice>
+		<exercice numero="2">
+			<contenu>
+							</contenu>
+		</exercice>
+	</repenses>
+</PExercices>

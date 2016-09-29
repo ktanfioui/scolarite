@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PExercices>
+	<idExamen>7</idExamen>
+	<nbrExercices>3</nbrExercices>
+	<corrections>
+		<exercice numero="1">
+			<contenu>
+				<p><span style="line-height: 20.7999992370605px;">Solution de l&#39;exercice 1</span></p>
+			</contenu>
+		</exercice>
+		<exercice numero="2">
+			<contenu>
+				<p><span style="line-height: 20.7999992370605px;">Solution de l&#39;exercice</span><span style="line-height: 20.7999992370605px;"> 2</span></p>
+			</contenu>
+		</exercice>
+		<exercice numero="3">
+			<contenu>
+				<p><span style="line-height: 20.7999992370605px;">Solution de l&#39;exercice</span><span style="line-height: 20.7999992370605px;"> 3</span></p>
+			</contenu>
+		</exercice>
+	</corrections>
+</PExercices>

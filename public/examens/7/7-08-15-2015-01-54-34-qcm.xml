@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<QCM>
+	<idExamen>7</idExamen>
+	<nbrQuestion>3</nbrQuestion>
+	<questions>
+		<question numero="1">
+			<contenu>Peut-on parser du XML à l'aide du C++ ?</contenu>
+			<repenses>
+				<repense numero="1">Oui</repense>
+				<repense numero="2">Non</repense>
+				<repense numero="3">Cela n'a pas de signification</repense>
+			</repenses>
+		</question>
+		<question numero="2">
+			<contenu>Quel est l'utilité de try{} catch(){} ?</contenu>
+			<repenses>
+				<repense numero="1">Tenter de réaliser un calcul très compliqué</repense>
+				<repense numero="2">Tenter de réaliser une opération qui peut échouer</repense>
+				<repense numero="3">Tenter de lancer un programme extérieur et recevoir sa réponse</repense>
+			</repenses>
+		</question>
+		<question numero="3">
+			<contenu>Peut-on interagir avec des bases de données avec le C++ ?</contenu>
+			<repenses>
+				<repense numero="1">Oui</repense>
+				<repense numero="2">Non</repense>
+				<repense numero="3">Tout dépend</repense>
+			</repenses>
+		</question>
+	</questions>
+</QCM>

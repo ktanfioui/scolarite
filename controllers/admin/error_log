@@ -1,0 +1,2 @@
+[25-May-2016 00:03:51 Africa/Casablanca] PHP Fatal error:  Call to a member function getNom() on a non-object in /home/ensakfor/public_html/scolarite/views/admin/updateProfesseur.php on line 24
+[25-May-2016 00:04:00 Africa/Casablanca] PHP Fatal error:  Call to a member function getNom() on a non-object in /home/ensakfor/public_html/scolarite/views/admin/updateProfesseur.php on line 24

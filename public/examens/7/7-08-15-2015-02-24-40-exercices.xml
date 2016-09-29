@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PExercices>
+	<idExamen>7</idExamen>
+	<nbrExercices>3</nbrExercices>
+	<exercices>
+		<exercice numero="1">
+			<contenu><p><span style="color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px;">Ecrire un programme qui affiche ceci à l&#39;écran:</span></p>
+
+<pre style="font-family: monospace, Courier; color: black; border: 1px solid rgb(221, 221, 221); padding: 1em; line-height: 1.3em; font-size: 14px; background-color: rgb(246, 246, 246);">
+Hello world!
+Voici un programme illustrant l&#39;utilisation de cout!</pre>
+</contenu>
+		</exercice>
+		<exercice numero="2">
+			<contenu><p><span style="color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px;">Ecrire un programme qui demande à l&#39;utilisateur de taper un entier N et qui calcule u(N) défini par :</span></p>
+
+<p><span style="color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px;"><img alt="u(n) = \prod_{1}^{n} \frac{1}{n}" src="http://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20u%28n%29%20%3D%20%5Cprod_%7B1%7D%5E%7Bn%7D%20%5Cfrac%7B1%7D%7Bn%7D" /></span></p>
+</contenu>
+		</exercice>
+		<exercice numero="3">
+			<contenu><p><span style="color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px;">Ecrire un programme qui demande à l&#39;utilisateur de saisir un entier N et qui affiche la figure suivante.</span></p>
+
+<pre style="font-family: monospace, Courier; color: black; border: 1px solid rgb(221, 221, 221); padding: 1em; line-height: 1.3em; font-size: 14px; background-color: rgb(246, 246, 246);">
+N=1
+*
+N=2
+**
+*
+N=3
+***
+**
+*</pre>
+</contenu>
+		</exercice>
+	</exercices>
+</PExercices>

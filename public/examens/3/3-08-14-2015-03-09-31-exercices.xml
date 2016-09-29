@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PExercices>
+	<idExamen>3</idExamen>
+	<exercices>
+		<exercice numero="1">
+			<contenu><p>halooooooooo</p>
+
+<p><img alt="\sqrt{5}+\frac{2}{3}" src="http://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csqrt%7B5%7D&amp;plus;%5Cfrac%7B2%7D%7B3%7D" /></p>
+</contenu>
+		</exercice>
+		<exercice numero="2">
+			<contenu><p>hmmmmm</p>
+
+<p><img alt="\sqrt{5}+\frac{2}{3\arcsin }" src="http://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csqrt%7B5%7D&amp;plus;%5Cfrac%7B2%7D%7B3%5Carcsin%20%7D" /></p>
+</contenu>
+		</exercice>
+	</exercices>
+</PExercices>

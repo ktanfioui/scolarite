@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<QCours>
+	<idExamen>7</idExamen>
+	<nbrQuestion>2</nbrQuestion>
+	<questions>
+		<question numero="1">
+			<contenu><h4>Quelle est l&#39;utilité d&#39;un pointeur ?</h4>
+</contenu>
+		</question>
+		<question numero="2">
+			<contenu><h4>Comment faire une allocation dynamique ?</h4>
+</contenu>
+		</question>
+	</questions>
+</QCours>

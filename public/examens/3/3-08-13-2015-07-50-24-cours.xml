@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<QCours>
+	<idExamen>3</idExamen>
+	<questions>
+		<question numero="1">
+			<contenu><p>xvcxvcxvcxvxcv</p>
+</contenu>
+		</question>
+		<question numero="2">
+			<contenu><p>xcvxcvxcv<img alt="\begin{pmatrix} 2 5 \\ 5 5 \end{pmatrix}" src="http://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Cbegin%7Bpmatrix%7D%202%205%20%5C%5C%205%205%20%5Cend%7Bpmatrix%7D" /></p>
+</contenu>
+		</question>
+	</questions>
+</QCours>

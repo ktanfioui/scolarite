@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<QCours>
+	<idExamen>8</idExamen>
+	<nbrQuestion>2</nbrQuestion>
+	<repenses>
+		<question numero="1">
+			<contenu>
+							</contenu>
+		</question>
+		<question numero="2">
+			<contenu>
+							</contenu>
+		</question>
+	</repenses>
+</QCours>
